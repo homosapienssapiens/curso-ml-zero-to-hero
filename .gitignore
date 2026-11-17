@@ -1,0 +1,14 @@
+# Entornos y herramientas locales
+.venv/
+venv/
+.claude/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Datos y modelos que los notebooks descargan o generan al ejecutarse
+data/
+quijote.txt
+*.pt
+*.pth
+*.joblib
