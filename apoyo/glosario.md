@@ -337,7 +337,7 @@ Material de apoyo: [Chuleta de hiperparámetros](chuleta-hiperparametros.md) · 
 |---|---|---|---|
 | **RAG** | *Retrieval-Augmented Generation* | Buscar documentos relevantes y dárselos al LLM para que responda con ellos. | [12.4](../nivel-4-avanzado/m12-transformers/12.4-encoder-decoder.ipynb) |
 | **Random Forest** | *Random Forest* | Bagging de árboles que además sortea columnas en cada división. | [0.3](../nivel-1-cero/m00-bienvenida/0.3-breve-historia.ipynb) |
-| **Recall (sensibilidad)** | *recall / sensitivity* | De los positivos reales, qué fracción detecta el modelo (en el curso también "detección" y "sensibilidad"). | [1.4](../nivel-1-cero/m01-que-es-ml/1.4-tipos-de-problema.ipynb) |
+| **Recall** | *recall* (en medicina, *sensitivity* o sensibilidad) | De los positivos reales, qué fracción detecta el modelo. | [1.4](../nivel-1-cero/m01-que-es-ml/1.4-tipos-de-problema.ipynb) |
 | **Recompensa** | *reward* | Número que el entorno da al agente tras cada acción. | [1.3](../nivel-1-cero/m01-que-es-ml/1.3-tipos-de-aprendizaje.ipynb) |
 | **Recorte de gradiente** | *gradient clipping* | Limitar el tamaño del gradiente para evitar que explote. | [9.6](../nivel-4-avanzado/m09-redes-neuronales/9.6-hiperparametros-de-la-red.ipynb) |
 | **Red convolucional (CNN)** | *convolutional neural network* | Red que aplica filtros compartidos sobre la imagen; reconoce patrones donde estén. | [0.1](../nivel-1-cero/m00-bienvenida/0.1-como-usar-este-curso.ipynb) |
@@ -444,7 +444,6 @@ Algunos términos aparecen en el curso con más de una traducción. Todas son co
 
 | English | Formas que verás en el curso |
 |---|---|
-| *recall* | **recall** (la más usada), **detección** ([2.7](../nivel-1-cero/m02-datos/2.7-datos-desbalanceados.ipynb)), **sensibilidad** ([4.2](../nivel-2-aprendiz/m04-evaluacion/4.2-metricas-de-clasificacion.ipynb)), tasa de verdaderos positivos |
 | *greedy* | **voraz** ([5.4](../nivel-2-aprendiz/m05-modelos-clasicos/5.4-arboles-de-decision.ipynb), [11.5](../nivel-4-avanzado/m11-secuencias/11.5-seq2seq-y-cuello-de-botella.ipynb)) y **codiciosa/o** ([13.6](../nivel-5-heroe/m13-generativos-llms/13.6-hiperparametros-de-generacion.ipynb), [14.2](../nivel-5-heroe/m14-refuerzo/14.2-exploracion-vs-explotacion.ipynb)) |
 | *vanishing gradient* | **gradiente que desaparece** ([9.3](../nivel-4-avanzado/m09-redes-neuronales/9.3-funciones-de-activacion.ipynb)) y **desvanecimiento del gradiente** ([9.7](../nivel-4-avanzado/m09-redes-neuronales/9.7-inicializacion-y-gradientes.ipynb)) |
 | *prompt injection* | **inyección de prompt** ([13.8](../nivel-5-heroe/m13-generativos-llms/13.8-prompting-rag-y-agentes.ipynb)) e **inyección de instrucciones** ([13.9](../nivel-5-heroe/m13-generativos-llms/13.9-alucinaciones-y-limites.ipynb), [15.5](../nivel-5-heroe/m15-produccion-y-etica/15.5-privacidad-seguridad-y-ataques-adversarios.ipynb)) |

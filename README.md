@@ -157,3 +157,7 @@ Para tener a mano mientras estudias:
 | [📋 Plan de estudio](PLAN_DE_ESTUDIO.md) | Visión, metodología y contenido detallado de cada módulo |
 
 ¿Listo? Empieza por la [Lección 0.1 — Cómo usar este curso](nivel-1-cero/m00-bienvenida/0.1-como-usar-este-curso.ipynb). 🚀
+
+## 📄 Licencia
+
+Este curso está bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es): puedes copiarlo, adaptarlo y compartirlo, incluso con fines comerciales, siempre que des crédito al autor original. Texto legal completo en [LICENSE](LICENSE).
